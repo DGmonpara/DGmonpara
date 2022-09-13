@@ -4,11 +4,14 @@
 
 - 🌱 I’m currently learning java, Javascript, Python
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me: monparadarshan2017@gmail.com
 - 💬 Ask me about my hobby
 - ⚡ Fun fact: I am funny 
 
 ### Connect with me:
+
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](monparadarshan2017@gmail.com)
+
+###
 
 <a href="https://www.facebook.com/darshan.monpara.7" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/dgmonpara18" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
