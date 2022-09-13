@@ -13,7 +13,7 @@
 [![website](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-light-mode-only)
 [![website](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dgmonpara18#gh-light-mode-only)
+[![website]([./img/twitter-light.svg](http://i.imgur.com/wWzX9uB.png))](https://twitter.com/dgmonpara18#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/darshan_1805#gh-light-mode-only)
