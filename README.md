@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dgmonpara18)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18)
+[![website](./img/twitter-light.svg)](https://twitter.com/dgmonpara18#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/darshan_1805)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshan_1805)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/darshan_1805#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshan_1805#gh-dark-mode-only)
 
 ### Languages and Tools:
 
