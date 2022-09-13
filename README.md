@@ -10,14 +10,11 @@
 
 ### Connect with me:
 
-[![website](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-light-mode-only)
-[![website](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/darshan-monpara-0490b4221#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website]([./img/twitter-light.svg](http://i.imgur.com/wWzX9uB.png))](https://twitter.com/dgmonpara18#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/darshan_1805#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshan_1805#gh-dark-mode-only)
+<a href="https://www.facebook.com/darshan.monpara.7" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/dgmonpara18" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/darshan_1805/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
+<a href="www.linkedin.com/in/darshan-monpara-0490b4221" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
 
 ### Languages and Tools:
 
