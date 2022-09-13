@@ -13,11 +13,11 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/darshan-monpara-0490b4221/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dgmonpara18-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/dgmonpara18)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dgmonpara18)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/darshan_1805-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/darshan_1805-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/darshan_1805/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshan_1805/)
 
 ### Languages and Tools:
 
@@ -37,6 +37,5 @@
 
 <br />
 <br />
-
 
 
