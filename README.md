@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](monparadarshan2017@gmail.com)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ monparadarshan2017@gmail.com
 
 ###
 
